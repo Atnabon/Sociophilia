@@ -2,13 +2,6 @@
 
 <h2 align="center"> A social media app that connects users from all over the world.</h2>
 
-<h3 align="center">🌙 Dark Mode 🌙 </h3>
-
-![screencaptureW-localhost-3000-home-2023-01-27-03_25_16](https://user-images.githubusercontent.com/82048235/215123802-bfe2a166-4d3b-4ced-96f2-ef7c366202b9.png)
-
-<h3 align="center">🔅 Light Mode 🔅 </h3>
-
-![screencaptureT-localhost-3000-home-2023-01-27-03_28_10](https://user-images.githubusercontent.com/82048235/215124353-fb970226-3f62-4d88-89a7-2c895465c112.png)
 
 ## Key Features ⭐
 
